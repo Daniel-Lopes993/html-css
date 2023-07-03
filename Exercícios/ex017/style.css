@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+h1{
+    font-family: 'Dancing Script', cursive;
+}
+p{
+    text-indent: 30px;
+    text-align: justify;
+}
