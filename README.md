@@ -1,2 +1,2 @@
 # html-css
- Estudos sobre HTML5 e CSS3
+ Estou estudando sobre HTML e CSS com o objetivo de me inserir no mercado de trabalho.
